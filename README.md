@@ -2,6 +2,7 @@
 Data Structures Project which simulates different Parking Methods using Efficient Data Structures in CPP
 
 Different Parking Techniques or Systems used in implementation are:
+
 1.Linear Way Parking
 
 2.Floor Parking
